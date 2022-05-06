@@ -1,4 +1,6 @@
-# RANDOM CLASSIFICATION
+### EX NO: 1
+### DATE: 1/4/2022
+# <p align="center">RANDOM CLASSIFICATION </p>
 ## AIM:
 To write a python program to perform random classification.
 
